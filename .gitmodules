@@ -1,0 +1,24 @@
+[submodule "godot-3-2d-fake-confetti-particles"]
+	path = godot-3-2d-fake-confetti-particles
+	url = git@github.com:hiulit/godot-3-2d-fake-confetti-particles.git
+[submodule "godot-3-2d-draw-sprite"]
+	path = godot-3-2d-draw-sprite
+	url = git@github.com:hiulit/godot-3-2d-draw-sprite.git
+[submodule "delaunator-gdscript"]
+	path = delaunator-gdscript
+	url = git@github.com:hiulit/delaunator-gdscript.git
+[submodule "godot-3-2d-day-night-cycle"]
+	path = godot-3-2d-day-night-cycle
+	url = git@github.com:hiulit/godot-3-2d-day-night-cycle.git
+[submodule "godot-3-2d-destructible-objects"]
+	path = godot-3-2d-destructible-objects
+	url = git@github.com:hiulit/godot-3-2d-destructible-objects.git
+[submodule "godot-3-2d-crt-shader"]
+	path = godot-3-2d-crt-shader
+	url = git@github.com:hiulit/godot-3-2d-crt-shader.git
+[submodule "godot-3-2d-fake-explosion-particles"]
+	path = godot-3-2d-fake-explosion-particles
+	url = git@github.com:hiulit/godot-3-2d-fake-explosion-particles.git
+[submodule "godot-2d-platformer-test"]
+	path = godot-2d-platformer-test
+	url = git@github.com:hiulit/godot-2d-platformer-test.git
